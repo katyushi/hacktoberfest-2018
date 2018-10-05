@@ -353,6 +353,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/ryokugyu)
   [![twitter-alt][twitter-img]](https://twitter.com/ryokugyu_)
 
+### Hugo Lazzari
+- I'm studing system developtment in brazil
+- I'm interested in developing programs 
+- [![github-alt][github-img]](https://github.com/katyushi)
+
 # I
 
 ### IGC
